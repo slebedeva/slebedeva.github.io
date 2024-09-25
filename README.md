@@ -1,4 +1,4 @@
-# Svetlana Lebedeva - My personal TILs 
+# My personal TILs 
 
 I got the idea of "TILs" (today I learned): small posts where you write what you learned today from [Stephen Turner](https://stephenturner.us/) who in turn got it from [Simon Willison](https://til.simonwillison.net/).
 
