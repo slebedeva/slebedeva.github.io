@@ -3,6 +3,12 @@
 I got the idea of "TILs" (today I learned): small posts where you write what you learned today from [Stephen Turner](https://stephenturner.us/) who in turn got it from [Simon Willison](https://til.simonwillison.net/).
 
 ### 2024
+
+### October
+
+**python env management**  
+There is a new kid on the block: [uv](https://docs.astral.sh/uv/). Written in Rust and supposed to be fast.
+
 ### September
 
 **pandas x json**  
