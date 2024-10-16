@@ -6,6 +6,9 @@ I got the idea of "TILs" (today I learned): small posts where you write what you
 
 ### October
 
+**sklearn**  
+`feature_extraction.DictVectorizer` (use it to one hot encode categorical features) - especially useful for json input data.
+
 **python env management**  
 There is a new kid on the block: [uv](https://docs.astral.sh/uv/). Written in Rust and supposed to be fast.
 
