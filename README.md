@@ -6,6 +6,9 @@ I got the idea of "TILs" (today I learned): small posts where you write what you
 
 ### October
 
+**pandas**  
+`df[::10]` will print every 10th row
+
 **sklearn**  
 `feature_extraction.DictVectorizer` (use it to one hot encode categorical features) - especially useful for json input data.
 
