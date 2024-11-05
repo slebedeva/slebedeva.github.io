@@ -4,6 +4,11 @@ I got the idea of "TILs" (today I learned): small posts where you write what you
 
 ### 2024
 
+### November  
+
+**jupyter**  
+`%%capture` is a magic that will capture stdout of the cell.
+
 ### October
 
 **pandas**  
