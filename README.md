@@ -6,6 +6,9 @@ I got the idea of "TILs" (today I learned): small posts where you write what you
 
 ### November  
 
+**git**  
+`git switch my_remote_branch` is a command to create a new local branch from a remote branch if a local branch doesn't exist yet.
+
 **jupyter**  
 `%%capture` is a magic that will capture stdout of the cell.
 
