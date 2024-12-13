@@ -2,7 +2,14 @@
 
 I got the idea of "TILs" (today I learned): small posts where you write what you learned today from [Stephen Turner](https://stephenturner.us/) who in turn got it from [Simon Willison](https://til.simonwillison.net/).
 
+### 2025
+
 ### 2024
+
+### December
+
+**polars**  
+`pl.scan_csv()` - super quick taking a look into a data frame without loading it into memory
 
 ### November  
 
