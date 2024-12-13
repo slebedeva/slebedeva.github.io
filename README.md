@@ -11,6 +11,7 @@ I got the idea of "TILs" (today I learned): small posts where you write what you
 **polars**  
 `pl.scan_csv()` - super quick taking a look into a data frame without loading it into memory  
 `pl.explode()` - allows to make columns with all combinations of values from one column (e.g. [1:{1,2,3}] will become [1:1,1:2,1:3]
+`pl.read_csv_batched()` - read in chunks for large dataframes
 
 ### November  
 
